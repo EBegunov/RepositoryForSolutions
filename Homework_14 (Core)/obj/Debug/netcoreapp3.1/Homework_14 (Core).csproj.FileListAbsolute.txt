@@ -1,0 +1,13 @@
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).exe
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).deps.json
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).runtimeconfig.json
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).runtimeconfig.dev.json
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).dll
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\bin\Debug\netcoreapp3.1\Homework_14 (Core).pdb
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).AssemblyInfoInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).AssemblyInfo.cs
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).dll
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).pdb
+C:\Users\Elite\source\repos\Study_one\Homework_14 (Core)\obj\Debug\netcoreapp3.1\Homework_14 (Core).genruntimeconfig.cache

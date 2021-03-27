@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Study_one\Homework_18\bin\Debug\Homework_18.exe.config
+C:\Users\Elite\source\repos\Study_one\Homework_18\bin\Debug\Homework_18.exe
+C:\Users\Elite\source\repos\Study_one\Homework_18\bin\Debug\Homework_18.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_18\obj\Debug\Homework_18.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homework_18\obj\Debug\Homework_18.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_18\obj\Debug\Homework_18.exe
+C:\Users\Elite\source\repos\Study_one\Homework_18\obj\Debug\Homework_18.pdb

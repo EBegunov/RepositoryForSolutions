@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Study_one\Homework_21\bin\Debug\Homework_21.exe.config
+C:\Users\Elite\source\repos\Study_one\Homework_21\bin\Debug\Homework_21.exe
+C:\Users\Elite\source\repos\Study_one\Homework_21\bin\Debug\Homework_21.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_21\obj\Debug\Homework_21.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homework_21\obj\Debug\Homework_21.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_21\obj\Debug\Homework_21.exe
+C:\Users\Elite\source\repos\Study_one\Homework_21\obj\Debug\Homework_21.pdb

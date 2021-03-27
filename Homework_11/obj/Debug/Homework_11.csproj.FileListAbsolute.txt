@@ -1,0 +1,2 @@
+C:\Users\Elite\source\repos\Study_one\Homework_11\obj\Debug\Homework_11.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homework_11\obj\Debug\Homework_11.csproj.CoreCompileInputs.cache

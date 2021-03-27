@@ -1,0 +1,6 @@
+C:\Users\Elite\source\repos\Study_one\Homework_5\bin\Debug\Homework_5.exe.config
+C:\Users\Elite\source\repos\Study_one\Homework_5\bin\Debug\Homework_5.exe
+C:\Users\Elite\source\repos\Study_one\Homework_5\bin\Debug\Homework_5.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_5\obj\Debug\Homework_05.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_5\obj\Debug\Homework_5.exe
+C:\Users\Elite\source\repos\Study_one\Homework_5\obj\Debug\Homework_5.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCsEaIPCrmbqpSYMufbjxTD+0zzVtl9IoGfwEIqX1TuKNluYTo6auSCXZ3cOKnCfStbtg66XQLHgImpuMGVAYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elite\\source\\repos\\Study_one\\Homework_26\\Homework_26.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elite\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Elite\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Elite\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

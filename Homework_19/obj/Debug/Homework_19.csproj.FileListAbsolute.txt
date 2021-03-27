@@ -1,0 +1,6 @@
+C:\Users\Elite\source\repos\Study_one\Homework_19\obj\Debug\Homework_19.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_19\bin\Debug\Homework_19.exe.config
+C:\Users\Elite\source\repos\Study_one\Homework_19\bin\Debug\Homework_19.exe
+C:\Users\Elite\source\repos\Study_one\Homework_19\bin\Debug\Homework_19.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_19\obj\Debug\Homework_19.exe
+C:\Users\Elite\source\repos\Study_one\Homework_19\obj\Debug\Homework_19.pdb

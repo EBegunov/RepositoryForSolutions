@@ -1,0 +1,7 @@
+C:\Users\Elite\source\repos\Study_one\Homeword_8\obj\Debug\Homework_8.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homeword_8\obj\Debug\Homework_8.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homeword_8\bin\Debug\Homeword_8.exe.config
+C:\Users\Elite\source\repos\Study_one\Homeword_8\bin\Debug\Homeword_8.exe
+C:\Users\Elite\source\repos\Study_one\Homeword_8\bin\Debug\Homeword_8.pdb
+C:\Users\Elite\source\repos\Study_one\Homeword_8\obj\Debug\Homeword_8.exe
+C:\Users\Elite\source\repos\Study_one\Homeword_8\obj\Debug\Homeword_8.pdb

@@ -1,0 +1,13 @@
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.exe
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.deps.json
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.runtimeconfig.json
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.runtimeconfig.dev.json
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.dll
+C:\Users\Elite\source\repos\Study_one\Homework_24\bin\Debug\netcoreapp3.1\Homework_24.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.AssemblyInfoInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.AssemblyInfo.cs
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.dll
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.pdb
+C:\Users\Elite\source\repos\Study_one\Homework_24\obj\Debug\netcoreapp3.1\Homework_24.genruntimeconfig.cache
